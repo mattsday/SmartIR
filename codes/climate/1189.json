@@ -18,9 +18,9 @@
   ],
   "fanModes": [
     "auto",
-    "level1",
-    "level2",
-    "level3"
+    "low",
+    "mid",
+    "high"
   ],
   "commands": {
     "off": "JgCQAAABHpQTNhE2ERQQExE3EDYRExESERMQNxI2ETYRNRM1ETcQFBA3EBQQNxA2EjYREhISERMREhISERISNhETEBMRExAUEBMRExA3ETYSNRI1EjYRNhEUEBMREhETERIRExA3ETcRNhE2EjURNhEUEBMRExAUEBMRExATERIRExE2EhIRNhI2ERISNRISCwANBQ==",
